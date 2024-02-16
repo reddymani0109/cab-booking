@@ -1,2 +1,2 @@
-# account-page
-This repo is used to manage code base for Account Page project
+# cab-booking
+This repo is used to manage code base for Cab Booking project
